@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ik3c0i.pulaucuansite.com/sitemap.xml
